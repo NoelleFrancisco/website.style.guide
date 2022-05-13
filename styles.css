@@ -1,0 +1,71 @@
+body {
+  font-family: Arial;
+}
+
+.container {
+  border: 2px solid #514C4E;
+  margin-top: 10px;
+  padding: 10px 20px;
+}
+
+.color-container {
+  width: 100%;
+ 
+}
+
+.color-panel {
+  display: inline-block;
+  width: 20%;
+  text-align: center;
+  padding: 10px;
+  margin: 2px auto;
+}
+
+.cool-blue {
+  background-color: #2D5DCC;
+  color: #FFF;
+}
+
+.pink {
+  background-color: #D957D9;
+  color: #FFF;
+}
+
+.mint-green {
+  background-color: #4FE0B0;
+  color: #FFF;
+}
+
+.beige {
+  background-color: #EFD9CA;
+  color: #FFF;
+}
+
+.source-code-pro {
+  font-family: "source code pro";
+}
+
+.nunito-sans {
+  font-family: "nunito sans";
+}
+
+.poppins {
+  font-family: poppins;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.italic {
+  font-style: italic;
+}
+
+.titlecard {
+  font-family: georgia;
+  text-align: center;
+  background-color: #6269C9;
+  color: #fff;
+  height: 50px;
+  padding: 15px 10px 0px;
+}
